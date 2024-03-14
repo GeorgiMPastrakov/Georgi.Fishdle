@@ -1,4 +1,4 @@
 .body {
-  background-image: url("bakground-img.webp");
-  font: font-family " handwriting ";
+  background-image: ("bakground-img.webp");
+  font-family: "Poppins" sans-serif;
 }
