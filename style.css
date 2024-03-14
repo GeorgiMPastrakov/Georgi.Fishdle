@@ -1,4 +1,4 @@
 .body {
-  background-image: ("bakground-img.webp");
-  font-family: "Poppins" sans-serif;
+  background-image: url(bakground-img.webp);
+  background-color: blue;
 }
